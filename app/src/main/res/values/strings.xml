@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidExamen</string>
+    <string name="titulo_principal">Escoja el orden de su listado</string>
+    <string name="filtro_popular">Popular</string>
+    <string name="filtro_top">Top Rated</string>
+    <string name="_9_0">9.0</string>
+    <string name="todo">TODO</string>
+    <string name="txtnombre">TxtNombre</string>
+    <string name="txtfecha">txtFecha</string>
+    <string name="espere">Espere porfavor...</string>
+    <string name="solicitando">Solicitando datos!</string>
+    <string name="originalTitulo">Titulo Original: </string>
+    <string name="infoPelicula">Descripción: </string>
+    <string name="basePathPelicula">https://image.tmdb.org/t/p/w500</string>
+    <string name="estreno">Estreno: </string>
+</resources>
